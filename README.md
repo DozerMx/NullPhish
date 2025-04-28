@@ -33,6 +33,8 @@ Herramienta de de phishing con:
 
 ## 🛠 Instalación Básica  
 ```bash
+git clone https://github.com/DozerMx/NullPhish.git
+cd NullPhish
 pip install -r requirements.txt
 python3 NullPhish.py
 ```
