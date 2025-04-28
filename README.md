@@ -53,11 +53,14 @@ Para instalar y ejecutar **NullPhish v2.1**:
    pip install -r requirements.txt
    ```
 
-4. Ejecuta el instalador principal:
+4. Ejecuta el instalador principal: (solo una vez)
    ```bash
    bash install.sh
    ```
-
+5. cuando quieras usarlo nuevamente solo basta con poner:
+   ```bash
+   python3 NullPhish.py
+   ```
 ---
 
 ## 📄 Licencia  
