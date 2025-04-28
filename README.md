@@ -1,3 +1,4 @@
+
 # NullPhish v2.1  
 
 <p align="center">
@@ -23,26 +24,43 @@ Los desarrolladores no asumen responsabilidad por mal uso.
 ---
 
 ## 📌 Descripción Técnica  
-Herramienta de phishing con:  
-- Servidor HTTP integrado en Python  
-- Captura básica de credenciales  
-- Registro local de datos (`credentials.txt`)  
-- Túneles Cloudflare opcionales  
+NullPhish es una herramienta de phishing con las siguientes características:
+
+- Servidor HTTP integrado en Python
+- Captura básica de credenciales
+- Registro local de datos (`credentials.txt`)
+- Túneles Cloudflare opcionales
+
+**Requiere Python 3.x** y puede ser ejecutado directamente en un entorno de desarrollo como Termux.
 
 ---
 
 ## 🛠 Instalación Básica  
-```bash
-git clone https://github.com/DozerMx/NullPhish.git
-cd NullPhish
-pip install -r requirements.txt
-python3 NullPhish.py
-```
+Para instalar y ejecutar **NullPhish v2.1**:
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/DozerMx/NullPhish.git
+   ```
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd NullPhish
+   ```
+
+3. Instala las dependencias requeridas:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Ejecuta el instalador principal:
+   ```bash
+   bash install.sh
+   ```
 
 ---
 
 ## 📄 Licencia  
 El acceso al código no implica derechos de uso. Para permisos de modificación/distribución, contactar al equipo legal de Null Signal Network.  
 
-*El logo y marca son propiedad de Null Signal Network.*  
-```
+*El logo y marca son propiedad de Null Signal Network.*
