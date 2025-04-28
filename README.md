@@ -23,7 +23,7 @@ Los desarrolladores no asumen responsabilidad por mal uso.
 ---
 
 ## 📌 Descripción Técnica  
-Herramienta de de phishing con:  
+Herramienta de phishing con:  
 - Servidor HTTP integrado en Python  
 - Captura básica de credenciales  
 - Registro local de datos (`credentials.txt`)  
