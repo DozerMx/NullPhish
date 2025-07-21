@@ -48,7 +48,7 @@ NullPhish v2.2 es una herramienta profesional de phishing que incluye:
 ```bash
 git clone https://github.com/DozerMx/NullPhish.git
 cd NullPhish
-python3 NullPhish.py
+python3 NullPhishV2.py
 ```
 
 > Asegúrate de tener `cloudflared` instalado en tu sistema.  
