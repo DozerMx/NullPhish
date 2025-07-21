@@ -43,7 +43,7 @@ NullPhish v2.2 es una herramienta profesional de phishing que incluye:
 
 ---
 
-## 🛠 Instalación Básica  
+## Instalación Básica  
 
 ```bash
 git clone https://github.com/DozerMx/NullPhish.git
@@ -56,7 +56,7 @@ python3 NullPhish.py
 
 ---
 
-## 🛰 Ejemplo de salida en consola  
+## Ejemplo de salida en consola  
 
 [*] NullPhish v2.2 - Phishing Tool
 [*] Use responsibly for educational purposes only
