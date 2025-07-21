@@ -102,4 +102,4 @@ termux-setup-storage
 sleep 2
 
 echo -e "\e[1;32m[+] Todo listo. Ejecutando NullPhish...\e[0m"
-python3 NullPhish.py
+python3 NullPhishV2.py
