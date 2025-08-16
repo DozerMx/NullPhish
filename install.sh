@@ -1,12 +1,10 @@
 #!/bin/bash
 
-# Comprobación rápida de si está en Termux
 if [ -z "$PREFIX" ]; then
   echo "[-] Este script está diseñado para ejecutarse en Termux."
   exit 1
 fi
 
-# Arte ASCII
 clear
 echo -e "\e[1;31m"
 cat << "EOF"
