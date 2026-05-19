@@ -1,31 +1,10 @@
 
 # NullPhish v2.2  
 
-<p align="center">
-  <img src="baner/NullPhishV2.png" alt="Logo NullPhishV2" width="300">
-</p>
+**Copyright © 2023 HackPurgatory. Todos los derechos reservados.**
 
-**Copyright © 2025 Null Signal Network. Todos los derechos reservados.**
-
----
-
-## AVISO LEGAL  
-Este software y su código fuente están protegidos por leyes internacionales de derechos de autor. Está estrictamente prohibido sin permiso por escrito de los titulares:
-
-- Distribuir, modificar o usar comercialmente  
-- Ingeniería inversa o alteración del código  
-
-Uso autorizado limitado a:  
-Auditorías internas autorizadas  
-Investigación profesional en ciberseguridad  
-Formación técnica controlada  
-
-Los desarrolladores no asumen ninguna responsabilidad por uso indebido o malicioso.
-
----
-
-## Descripción Técnica  
-NullPhish v2.2 es una herramienta profesional de phishing que incluye:
+## Descripción  
+NullPhish v2.2 es una herramienta de phishing que incluye:
 
 - Captura **real** de credenciales con registro detallado  
 - Servidor HTTP embebido en Python  
@@ -40,8 +19,6 @@ NullPhish v2.2 es una herramienta profesional de phishing que incluye:
 - Autodetección de plataforma víctima (Windows, Android, iOS...)  
 - Instalación automática de dependencias requeridas  
 - Acortador de URLs integrado
-
----
 
 ## Instalación Básica  
 
@@ -102,22 +79,6 @@ python3 NullPhishV2.py
 [*] Ruta de almacenamiento: /.../NullPhish/credentials.txt
 ------------------------------------------------------------
 
----
-
-## Licencia  
-
-El acceso al código no implica derechos de uso. Está prohibido:
-
-- Redistribuir o vender el código
-- Modificar con fines maliciosos
-- Usar sin consentimiento de terceros
-
-Para permisos específicos, contactar al equipo legal de **Null Signal Network**.
-
-*El logo y marca son propiedad exclusiva de Null Signal Network.*
-
----
-
 ## Autor  
 
 - Desarrollado por: **DozerMx**
@@ -126,4 +87,4 @@ Para permisos específicos, contactar al equipo legal de **Null Signal Network**
 
 ---
 
-👾NullPhish v2.2👾
+NullPhish v2.2
